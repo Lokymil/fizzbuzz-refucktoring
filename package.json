@@ -1,0 +1,13 @@
+{
+  "name": "fizzbuzz-refucktoring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christophe ARRESTIER <christophe.arrestier.carbon-it@ext.pmu.fr>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
